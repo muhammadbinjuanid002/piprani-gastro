@@ -1,12 +1,10 @@
-# Piprani Gastro and General Care - landing page demo
+# Piprani Gastro and General Care - website demo
 
-Preview design by MO Digital. Not affiliated with Piprani Gastro and General Care.
+Landing page demo for **Piprani Gastro and General Care**, FB Area, Karachi.
 
-- Clinic: Piprani Gastro and General Care
-- Address: Shop 2, C-5 Ancholi Block 20, FB Area, Karachi
-- Phone: 0312 0009487
 - Live demo: https://piprani-gastro.vercel.app
+- Single static page: `index.html` - Tailwind CSS compiled and inlined, no build step, no external requests, mobile first.
+- Placeholders must be filled by the clinic before go-live.
+- Preview design by MO Digital. Not affiliated with Piprani Gastro and General Care.
 
-This repository holds a single self-contained `index.html` (Tailwind CSS inlined, no external requests, no build step). The page is a design preview built by MO Digital for Piprani Gastro and General Care, Karachi.
-
-Booking on the page: Book on WhatsApp.
+This project is linked to the GitHub repo: every push to `main` auto-deploys to Vercel production.
